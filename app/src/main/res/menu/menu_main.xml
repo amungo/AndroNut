@@ -1,0 +1,30 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.amungo.andronut.MainActivity">
+    <item
+        android:id="@+id/action_scan"
+        android:orderInCategory="100"
+        android:title="@string/action_scan"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_flash_device"
+        android:orderInCategory="100"
+        android:title="Flash Boot Device"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_load_nt1065"
+        android:orderInCategory="100"
+        android:title="Load nt1065 config"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_start_stream"
+        android:orderInCategory="100"
+        android:title="Start Stream"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_stop_stream"
+        android:orderInCategory="100"
+        android:title="Stop Stream"
+        app:showAsAction="never" />
+</menu>

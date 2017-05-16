@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AndroNut</string>
+    <string name="action_scan">Scan devices</string>
+</resources>
